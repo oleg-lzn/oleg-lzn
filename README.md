@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oleg Luzenin</h1>
-<h3 align="center">A full stack developer from Israel</h3>
+<h3 align="center">A Full Stack Web Developer from Israel</h3>
 
 - 🔭 I’m currently working on [Around the US](https://github.com/oleg-lzn/se_project_aroundtheus)
 
