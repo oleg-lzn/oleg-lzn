@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oleg Luzenin</h1>
 <h3 align="center">A Full Stack Web Developer from Israel</h3>
 
-- 🔭 I’m currently working on [Around the US](https://github.com/oleg-lzn/se_project_aroundtheus)
+- 🔭 I’m currently working on [What to Wear](https://github.com/oleg-lzn/se_project_react)
 
 - 🌱 I’m currently learning **TripleTen FS Web Development**
 
