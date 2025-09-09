@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Oleg Luzenin</h1>
 <h3 align="center">A Full Stack Web Developer from Israel</h3>
 
-- 🔭 I’m currently working on LETT DO Admin interface
+- 🔭 I’m currently working on web security and databases configurations
 
-- 🌱 I’m currently learning **TripleTen FS Web Development**
-
-- 💬 Ask me about **React, JS, CSS, HTML, Git**
+- 💬 Ask me about **React, NodeJs, Next.js, React Native**
 
 - 📫 How to reach me **luzeninoleg2012@gmail.com**
 
