@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on web security and databases configurations
 
-- 💬 Ask me about **React, NodeJs, Next.js, React Native**
+- 💬 Ask me about **React, Node.js, Nest.js, Next.js, React Native**
 
 - 📫 How to reach me **luzeninoleg2012@gmail.com**
 
