@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oleg Luzenin</h1>
 <h3 align="center">A Full Stack Web Developer from Israel</h3>
 
-- 🔭 I’m currently working on web security and databases configurations
+- 🔭 I’m currently working on backend for Loopay.ai - platform for convenient bottles recycling in Israel.
 
 - 💬 Ask me about **React, Node.js, Nest.js, Next.js, React Native**
 
